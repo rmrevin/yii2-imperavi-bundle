@@ -1,9 +1,9 @@
 Yii 2 Imperavi redactor Asset Bundle
 ===============================
-[![License](https://poser.pugx.org/rmrevin/yii2-fontawesome/license.svg)](https://packagist.org/packages/rmrevin/yii2-fontawesome)
-[![Latest Stable Version](https://poser.pugx.org/rmrevin/yii2-fontawesome/v/stable.svg)](https://packagist.org/packages/rmrevin/yii2-fontawesome)
-[![Latest Unstable Version](https://poser.pugx.org/rmrevin/yii2-fontawesome/v/unstable.svg)](https://packagist.org/packages/rmrevin/yii2-fontawesome)
-[![Total Downloads](https://poser.pugx.org/rmrevin/yii2-fontawesome/downloads.svg)](https://packagist.org/packages/rmrevin/yii2-fontawesome)
+[![License](https://poser.pugx.org/rmrevin/yii2-imperavi/license.svg)](https://packagist.org/packages/rmrevin/yii2-imperavi)
+[![Latest Stable Version](https://poser.pugx.org/rmrevin/yii2-imperavi/v/stable.svg)](https://packagist.org/packages/rmrevin/yii2-imperavi)
+[![Latest Unstable Version](https://poser.pugx.org/rmrevin/yii2-imperavi/v/unstable.svg)](https://packagist.org/packages/rmrevin/yii2-imperavi)
+[![Total Downloads](https://poser.pugx.org/rmrevin/yii2-imperavi/downloads.svg)](https://packagist.org/packages/rmrevin/yii2-imperavi)
 
 Installation
 ------------
@@ -11,7 +11,7 @@ Add in `composer.json`:
 ```
 {
     "require": {
-        "rmrevin/yii2-imperavi": "1.0.1"
+        "rmrevin/yii2-imperavi": "1.0.2"
     }
 }
 ```
