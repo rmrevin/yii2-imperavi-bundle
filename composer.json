@@ -1,5 +1,5 @@
 {
-  "name": "rmrevin/yii2-imperavi",
+  "name": "rmrevin/yii2-imperavi-bundle",
   "description": "Yii 2 Asset bundle with Imperavi WYSIWYG redactor",
   "keywords": [
     "yii",
@@ -13,8 +13,8 @@
   "license": "MIT",
   "minimum-stability": "stable",
   "support": {
-    "issues": "https://github.com/rmrevin/yii2-imperavi/issues",
-    "source": "https://github.com/rmrevin/yii2-imperavi"
+    "issues": "https://github.com/rmrevin/yii2-imperavi-bundle/issues",
+    "source": "https://github.com/rmrevin/yii2-imperavi-bundle"
   },
   "authors": [
     {

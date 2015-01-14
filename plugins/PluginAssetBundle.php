@@ -16,7 +16,7 @@ abstract class PluginAssetBundle extends \yii\web\AssetBundle
     /**
      * @inherit
      */
-    public $sourcePath = '@vendor/rmrevin/yii2-imperavi/assets';
+    public $sourcePath = '@vendor/rmrevin/yii2-imperavi-bundle/assets';
 
     /**
      * @var string plugin filename
