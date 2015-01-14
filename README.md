@@ -11,7 +11,7 @@ Add in `composer.json`:
 ```
 {
     "require": {
-        "rmrevin/yii2-imperavi": "1.0.2"
+        "rmrevin/yii2-imperavi": "1.0.3"
     }
 }
 ```
