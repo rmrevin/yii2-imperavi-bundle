@@ -1,4 +1,4 @@
-Yii 2 Imperavi redactor Asset Bundle
+Yii 2 Asset bundle with Imperavi WYSIWYG redactor
 ===============================
 [![License](https://poser.pugx.org/rmrevin/yii2-imperavi/license.svg)](https://packagist.org/packages/rmrevin/yii2-imperavi)
 [![Latest Stable Version](https://poser.pugx.org/rmrevin/yii2-imperavi/v/stable.svg)](https://packagist.org/packages/rmrevin/yii2-imperavi)
