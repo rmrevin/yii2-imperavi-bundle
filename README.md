@@ -1,9 +1,9 @@
 Yii 2 Asset bundle with Imperavi WYSIWYG redactor
 ===============================
-[![License](https://poser.pugx.org/rmrevin/yii2-imperavi/license.svg)](https://packagist.org/packages/rmrevin/yii2-imperavi)
-[![Latest Stable Version](https://poser.pugx.org/rmrevin/yii2-imperavi/v/stable.svg)](https://packagist.org/packages/rmrevin/yii2-imperavi)
-[![Latest Unstable Version](https://poser.pugx.org/rmrevin/yii2-imperavi/v/unstable.svg)](https://packagist.org/packages/rmrevin/yii2-imperavi)
-[![Total Downloads](https://poser.pugx.org/rmrevin/yii2-imperavi/downloads.svg)](https://packagist.org/packages/rmrevin/yii2-imperavi)
+[![License](https://poser.pugx.org/rmrevin/yii2-imperavi-bundle/license.svg)](https://packagist.org/packages/rmrevin/yii2-imperavi-bundle)
+[![Latest Stable Version](https://poser.pugx.org/rmrevin/yii2-imperavi-bundle/v/stable.svg)](https://packagist.org/packages/rmrevin/yii2-imperavi-bundle)
+[![Latest Unstable Version](https://poser.pugx.org/rmrevin/yii2-imperavi-bundle/v/unstable.svg)](https://packagist.org/packages/rmrevin/yii2-imperavi-bundle)
+[![Total Downloads](https://poser.pugx.org/rmrevin/yii2-imperavi-bundle/downloads.svg)](https://packagist.org/packages/rmrevin/yii2-imperavi-bundle)
 
 Installation
 ------------
