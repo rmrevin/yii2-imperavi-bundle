@@ -52,7 +52,11 @@ class AssetBundle extends \yii\web\AssetBundle
         parent::init();
 
         if (!empty($this->language)) {
-            $this->js[] = 'lang/' . $this->language . '.js';
+            $lang = 'lang/' . $this->language . '.js';
+
+            if (file_exists(\Yii::getAlias($this->sourcePath) . '/' . $lang)) {
+                $this->js[] = $lang;
+            }
         }
     }
 }
